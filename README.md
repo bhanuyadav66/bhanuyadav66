@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast • ML Engineer in the Making • B.Tech CSE (Data Science)</h3>
 
 <p align="center">
-  <img src="" />
+  <img src="./banner.png" alt="Allam Bhanu Prakash – Data Science Banner" />
 </p>
 
 
