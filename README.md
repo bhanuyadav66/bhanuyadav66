@@ -9,20 +9,20 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (Data Science) at Malla Reddy Engineering College (2022–2026), CGPA: 8.13 [attached_file:3]  
-- 🤖 Love turning raw data into ML models, dashboards, and real-world insights. [attached_file:3]  
-- 🧪 Enjoy experimenting with NLP, deep learning, and predictive modeling using Python and SQL. [memory:4][memory:5]  
-- 🚀 Actively building projects that combine data science with clean, production-ready code. [attached_file:3]  
+- 🎓 B.Tech in Computer Science Engineering (Data Science) at Malla Reddy Engineering College (2022–2026), CGPA: 8.13   
+- 🤖 Love turning raw data into ML models, dashboards, and real-world insights.  
+- 🧪 Enjoy experimenting with NLP, deep learning, and predictive modeling using Python and SQL.   
+- 🚀 Actively building projects that combine data science with clean, production-ready code.   
 
 ---
 
 ## 🧠 Tech Arsenal
 
-- **Languages:** C, Python, Java, HTML/CSS [attached_file:3]  
-- **ML / DS:** Pandas, NumPy, Scikit-learn, NLTK, TensorFlow, SpaCy [attached_file:3]  
-- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI [attached_file:3]  
-- **Database:** MySQL [attached_file:3]  
-- **Tools:** Jupyter Notebook, VS Code, Git, Excel [attached_file:3]  
+- **Languages:** C, Python, Java, HTML/CSS 
+- **ML / DS:** Pandas, NumPy, Scikit-learn, NLTK, TensorFlow, SpaCy 
+- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI   
+- **Database:** MySQL, MongoDB  
+- **Tools:** Jupyter Notebook, VS Code, Git, Excel   
 
 ---
 
@@ -50,24 +50,24 @@
 
 ## 🏅 Badges & Milestones
 
-- 🐍 Kaggle **Python Coder** badge. [attached_file:3]  
-- 🎓 IBM SkillsBuild: AI Fundamentals, Data Fundamentals, Data Analysis Using Python. [attached_file:3]  
-- ☁️ Microsoft **Azure AI Fundamentals**. [attached_file:3]  
-- 📊 Completed courses on Big Data 101, Hadoop 101, and Data Visualisation with TATA. [attached_file:3]  
+- 🐍 Kaggle **Python Coder** badge.   
+- 🎓 IBM SkillsBuild: AI Fundamentals, Data Fundamentals, Data Analysis Using Python.   
+- ☁️ Microsoft **Azure AI Fundamentals**.   
+- 📊 Completed courses on Big Data 101, Hadoop 101, and Data Visualisation with TATA.   
 
 ---
 
 ## 🌍 Languages
 
-- English (Fluent) • Telugu (Native) • Hindi (Intermediate) [attached_file:3]  
+- English (Fluent) • Telugu (Native) • Hindi (Intermediate)   
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📍 Hyderabad, India [attached_file:3]  
-- ✉️ Email: **allambhanuprakash3413@gmail.com** [attached_file:3]  
-- 🔗 LinkedIn: *add your link here*  
+- 📍 Hyderabad, India   
+- ✉️ Email: **allambhanuprakash3413@gmail.com**  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/allam-bhanu-yadav/*  
 - 💻 GitHub: *add your profile link here*  
 
 > Tip: After pasting this into `README.md`, replace `your-username/your-repo` in the banner URL, add your real GitHub/LinkedIn links, and optionally add GitHub stats cards or visitor badges below the banner.
