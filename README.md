@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast • ML Engineer in the Making • B.Tech CSE (Data Science)</h3>
 
 <p align="center">
-  <img src=""C:\Users\BUNNY YADAV\Downloads\banner.png"/banner.png" />
+  <img src="" />
 </p>
 
 
