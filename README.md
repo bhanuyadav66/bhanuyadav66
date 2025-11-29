@@ -68,6 +68,6 @@
 - 📍 Hyderabad, India   
 - ✉️ Email: **allambhanuprakash3413@gmail.com**  
 - 🔗 LinkedIn: *https://www.linkedin.com/in/allam-bhanu-yadav/*  
-- 💻 GitHub: *add your profile link here*  
+- 💻 GitHub: *[add your profile link here](https://github.com/bhanuyadav66)*  
 
 > Tip: After pasting this into `README.md`, replace `your-username/your-repo` in the banner URL, add your real GitHub/LinkedIn links, and optionally add GitHub stats cards or visitor badges below the banner.
