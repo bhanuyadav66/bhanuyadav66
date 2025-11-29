@@ -73,4 +73,3 @@
 - 🔗 LinkedIn: *https://www.linkedin.com/in/allam-bhanu-yadav/*  
 - 💻 GitHub: *[bhanuyadav66](https://github.com/bhanuyadav66)*  
 
-> Tip: After pasting this into `README.md`, replace `your-username/your-repo` in the banner URL, add your real GitHub/LinkedIn links, and optionally add GitHub stats cards or visitor badges below the banner.
