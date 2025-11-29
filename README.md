@@ -37,17 +37,17 @@
 ### 🚦 Traffic Sign Classifier (99%+ Accuracy)
 - CNN-based deep learning model that classifies German traffic signs with high accuracy using TensorFlow and Keras. 
 - Includes a Tkinter GUI so users can upload an image and get real-time predictions.
-- 🔗 GitHub: [View Repository]
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/Traffic-Sign-Classifier)
   
 ### 💬 Amazon Reviews Sentiment Analyzer
 - NLP pipeline that cleans text, extracts features, and classifies reviews as positive or negative. 
 - Uses tokenization, stopword removal, lemmatization, and ML models to capture customer sentiment.
-- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/Sentiment-Analysis-On-Poduct-Reviews)
   
 ### 🩺 Insurance Charges Regressor
 - Regression models to estimate medical insurance costs from demographic and health attributes.   
 - Performed EDA and visualizations to explain which factors influence charges most.
-- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/-Predict-Insurance-Charges)
 
 ---
 
