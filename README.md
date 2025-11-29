@@ -30,22 +30,24 @@
 ## 🏗 Highlight Projects
 
 ### 🚗 Road Accident Risk Predictor
-- Predicts accident likelihood using features such as time, location, and weather, with end-to-end data cleaning and feature engineering. [attached_file:3]  
-- Built multiple ML models and visualizations to explain risk patterns.  
+- Predicts accident likelihood using features such as time, location, and weather, with end-to-end data cleaning and feature engineering.  
+- Built multiple ML models and visualizations to explain risk patterns. 
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
 
 ### 🚦 Traffic Sign Classifier (99%+ Accuracy)
-- CNN-based deep learning model that classifies German traffic signs with high accuracy using TensorFlow and Keras. [attached_file:3]  
-- Includes a Tkinter GUI so users can upload an image and get real-time predictions. [attached_file:3]  
-
+- CNN-based deep learning model that classifies German traffic signs with high accuracy using TensorFlow and Keras. 
+- Includes a Tkinter GUI so users can upload an image and get real-time predictions.
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+  
 ### 💬 Amazon Reviews Sentiment Analyzer
-- NLP pipeline that cleans text, extracts features, and classifies reviews as positive or negative. [attached_file:3]  
-- Uses tokenization, stopword removal, lemmatization, and ML models to capture customer sentiment. [attached_file:3]  
-
+- NLP pipeline that cleans text, extracts features, and classifies reviews as positive or negative. 
+- Uses tokenization, stopword removal, lemmatization, and ML models to capture customer sentiment.
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+  
 ### 🩺 Insurance Charges Regressor
-- Regression models to estimate medical insurance costs from demographic and health attributes. [attached_file:3]  
-- Performed EDA and visualizations to explain which factors influence charges most. [attached_file:3]  
-
-> 🔗 Add direct GitHub links under each project once repositories are ready.
+- Regression models to estimate medical insurance costs from demographic and health attributes.   
+- Performed EDA and visualizations to explain which factors influence charges most.
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
 
 ---
 
