@@ -32,12 +32,12 @@
 ### 🚗 Road Accident Risk Predictor
 - Predicts accident likelihood using features such as time, location, and weather, with end-to-end data cleaning and feature engineering.  
 - Built multiple ML models and visualizations to explain risk patterns. 
-- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/Road-Accident-Prediction)
 
 ### 🚦 Traffic Sign Classifier (99%+ Accuracy)
 - CNN-based deep learning model that classifies German traffic signs with high accuracy using TensorFlow and Keras. 
 - Includes a Tkinter GUI so users can upload an image and get real-time predictions.
-- 🔗 GitHub: [View Repository](https://github.com/bhanuyadav66/road-accident-prediction)
+- 🔗 GitHub: [View Repository]
   
 ### 💬 Amazon Reviews Sentiment Analyzer
 - NLP pipeline that cleans text, extracts features, and classifies reviews as positive or negative. 
