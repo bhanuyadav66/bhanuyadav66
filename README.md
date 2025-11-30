@@ -71,5 +71,6 @@
 - 📍 Hyderabad, India   
 - ✉️ Email: **allambhanuprakash3413@gmail.com**  
 - 🔗 LinkedIn: *https://www.linkedin.com/in/allam-bhanu-yadav/*  
-- 💻 GitHub: *[bhanuyadav66](https://github.com/bhanuyadav66)*  
+- 💻 GitHub: *[bhanuyadav66](https://github.com/bhanuyadav66)*
+- 🌐 Portfolio: https://allambhanuprakash.vercel.app/
 
