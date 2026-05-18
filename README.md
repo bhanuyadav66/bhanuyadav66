@@ -44,7 +44,7 @@
 - Developed an interactive Streamlit dashboard for visualizing trader insights and sentiment impact.
 - Focused on behavioral analytics and financial market sentiment prediction.
 
-🔗 GitHub: https://github.com/bhanuyadav66
+🔗 GitHub: [link](https://github.com/bhanuyadav66/trader-sentiment-analysis)
 
 ---
 
@@ -63,7 +63,7 @@
 - Built using TensorFlow and Keras with a Tkinter GUI for real-time predictions.
 - Implemented image preprocessing and deep learning classification pipeline.
 
-🔗 GitHub: https://github.com/bhanuyadav66/Traffic-Sign-Classifier
+🔗 GitHub: [link](https://github.com/bhanuyadav66/Traffic-Sign-Classifier)
 
 ---
 
@@ -72,7 +72,7 @@
 - Performed data cleaning, feature engineering, EDA, and model evaluation.
 - Built visualizations to identify accident risk patterns and contributing factors.
 
-🔗 GitHub: https://github.com/bhanuyadav66/Road-Accident-Prediction
+🔗 GitHub:[link](https://github.com/bhanuyadav66/Road-Accident-Prediction)
 
 ---
 
