@@ -54,7 +54,7 @@
 - Built a prediction pipeline with preprocessing, model training, and result visualization.
 - Focused on real-world agricultural and healthcare AI applications.
 
-🔗 GitHub: https://github.com/bhanuyadav66
+🔗 GitHub: [link](https://github.com/bhanuyadav66/livestock-marketplace)
 
 ---
 
